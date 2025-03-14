@@ -1,0 +1,16 @@
+# Ignore dataset folders
+data/
+datasets/
+*.csv
+*.pickle
+*.pkl
+
+# Ignore virtual environment folders
+venv/
+env/
+*.venv
+
+# Ignore other common files
+*.pyc
+__pycache__/
+.DS_Store
